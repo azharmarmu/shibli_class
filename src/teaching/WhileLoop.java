@@ -1,3 +1,5 @@
+package teaching;
+
 import java.util.Scanner;
 
 public class WhileLoop {

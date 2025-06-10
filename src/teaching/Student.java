@@ -1,3 +1,5 @@
+package teaching;
+
 import java.util.Scanner;
 
 class Student {
@@ -26,7 +28,7 @@ class Student {
 
         System.out.print("SubsString of " + name + " from index 2: " + op);
 
-        //Methods of String
+        //teaching.Methods of String
         // toUpperCase, toLowerCase
         // length
         // charAt

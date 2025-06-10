@@ -1,3 +1,5 @@
+package teaching;
+
 public class NestedLoop {
 
 

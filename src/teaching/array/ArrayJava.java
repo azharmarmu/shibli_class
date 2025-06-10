@@ -1,3 +1,5 @@
+package teaching.array;
+
 import java.util.Scanner;
 
 public class ArrayJava {

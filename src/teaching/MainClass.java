@@ -1,3 +1,4 @@
+package teaching;
 
 class MainClass {
 

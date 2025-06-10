@@ -1,7 +1,9 @@
+package teaching;
+
 public class Operators {
 
     public static void main(String[] args) {
-        //Operators
+        //teaching.Operators
 
         //Arithmetic operation (+, - , *, /,  %)
         int a = 10;
