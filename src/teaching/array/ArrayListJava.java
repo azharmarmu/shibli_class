@@ -34,7 +34,7 @@ public class ArrayListJava {
 //        System.out.println("CheckName: " + checkName);
 //
 //
-////        names.clear();
+//        names.clear();
 //        boolean checkEmpty = names.isEmpty();
 //
 //        System.out.println("CheckEmpty: " + checkEmpty);
@@ -44,7 +44,7 @@ public class ArrayListJava {
 
 
     //Iteration
-    static void listIteration(ArrayList al) {
+    static void listIteration(@org.jetbrains.annotations.NotNull ArrayList al) {
         for (int i = 0; i < al.toArray().length; i++) {
             System.out.println(i + "=> " + al.get(i));
         }
